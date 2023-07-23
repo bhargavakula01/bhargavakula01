@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Bhargav Akula, I am currently pursuing a major in chemical engineering and minoring in computer science.
-- This GitHub profile contains some random repositories that I have created while learning to program, but I would like to use it to showcase my skills in data science and other research projects.
+- This GitHub profile contains some random repositories that I have created while learning to program, but I would like to use it to showcase data science projects and chemical engineering research projects.
 
 <!---
 bhargavakula01/bhargavakula01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
