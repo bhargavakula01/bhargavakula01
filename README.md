@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Bhargav Akula. I am an aspiring researcher currently pursuing a major in chemical engineering and a minor in computer science
+- 👋 Hi, My name is Bhargav Akula. I am an aspiring researcher planning to work on developing simulations to help improve battery technology and energy storage systems
   
 
 <!---
