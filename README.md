@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Bhargav Akula. I am an aspiring researcher planning interested in climate change research and sustainable development
+- 👋 Hi, My name is Bhargav Akula. I am an aspiring researcher interested in climate change research and sustainable development
   
 
 <!---
