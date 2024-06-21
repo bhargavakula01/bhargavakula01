@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Bhargav Akula. I am an aspiring researcher planning to work on developing simulations to help improve battery technology and energy storage systems
+- 👋 Hi, My name is Bhargav Akula. I am an aspiring researcher planning interested in climate change research and sustainable development
   
 
 <!---
