@@ -1,6 +1,6 @@
 👋 Hi, My name is Bhargav Akula. Below are some of the projects that I have worked on/am currently working on to help develop my programming skills!
 
-#Interests:
+# Interests:
 1. Modeling Steady-State & Dynamic Systems
 2. Data Analysis
 3. SciML
