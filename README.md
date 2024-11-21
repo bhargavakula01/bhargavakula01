@@ -1,5 +1,10 @@
 👋 Hi, My name is Bhargav Akula. Below are some of the projects that I have worked on/am currently working on to help develop my programming skills!
 
+#Interests:
+1. Modeling Steady-State & Dynamic Systems
+2. Data Analysis
+3. SciML
+
 # Github Stats:
  ![Bhargav Akula's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargavakula01&show_icons=true&theme=radical)
 
