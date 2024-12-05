@@ -1,4 +1,6 @@
-👋 Hi, My name is Bhargav Akula. Below are some of the projects that I have worked on/am currently working on to help develop my programming skills!
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bhargav-akula/)
+
+👋 Hi, My name is Bhargav Akula. Below are some projects I have worked on/am currently working on to help develop my programming skills!
 
 # Interests:
 1. Modeling Steady-State & Dynamic Systems
