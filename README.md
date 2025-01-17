@@ -7,6 +7,9 @@
 2. Data Analysis
 3. SciML
 
+# Languages I work with
+![Programming languages Bhargav works with](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavakula01&theme=dracula&hide_langs_below=1)
+
 # Github Stats:
  ![Bhargav Akula's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargavakula01&show_icons=true&theme=radical)
 
