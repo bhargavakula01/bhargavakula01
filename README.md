@@ -1,4 +1,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bhargav-akula/)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://orcid.org/0000-0002-2687-9047)
+
 
 👋 Hi, My name is Bhargav Akula. Below are some projects I have worked on/am currently working on to help develop my programming skills!
 
