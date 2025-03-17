@@ -6,8 +6,8 @@
 
 # Interests:
 1. Modeling Steady-State & Dynamic Systems
-2. Data Analysis
-3. SciML
+2. Numerical Optimization & SciML
+3. Data Analysis
 
 # Languages I work with
 ![Programming languages Bhargav works with](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavakula01&theme=dracula&hide_langs_below=1)
