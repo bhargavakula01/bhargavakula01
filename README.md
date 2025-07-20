@@ -6,7 +6,7 @@
 
 # Interests:
 1. Modeling Steady-State & Dynamic Systems
-2. Numerical Optimization & SciML
+2. Numerical Optimization
 3. Data Analysis
 
 # Languages I work with
